@@ -29,4 +29,4 @@ Animal Shelter Database Implementation Schema: is the Implementation schema of t
 
 ## Contributors
 
-This project was a remarkable collaboration among a dedicated team, including my colleagues Konouz Abdelaziz (https://github.com/KonouzA), Amir Osama (21amir21 (Amir Osama) (github.com)), Patrick Sameh (CordialBeatle0 (github.com)), Sameh Ayman (https://github.com/Sambonic), and myself. Our collective efforts and shared commitment were instrumental in bringing this project to realization.
+This project was a remarkable collaboration among a dedicated team, including my colleagues Konouz Abdelaziz (https://github.com/KonouzA), Amir Osama (https://github.com/21amir21), Patrick Sameh (https://github.com/CordialBeatle0), Sameh Ayman (https://github.com/Sambonic), and myself. Our collective efforts and shared commitment were instrumental in bringing this project to realization.
