@@ -6,11 +6,11 @@ This project aims to design a robust database management system for animal shelt
 
 ## Files
 
-Animal_Shelter_Database: is a Microsoft SQL Server Query File containing the entire project including tables, triggers, views, and queries.
+Animal_Shelter_Database.sql: is a Microsoft SQL Server Query File containing the entire project including tables, triggers, views, and queries.
 
-Animal Shelter Database ERD: is the ERD that we designed to implement the database.
+Animal Shelter Database ERD.png: is the ERD that we designed to implement the database.
 
-Animal Shelter Database Implementation Schema: is the Implementation schema of the project.
+Animal Shelter Database Implementation Schema.png: is the Implementation schema of the project.
 
 
 ## Functionalities:
